@@ -11,19 +11,37 @@ NotAutomatic: no
 ButAutomaticUpgrades: no
 MD5Sum:
  7855efaae528ebe33433c7fc1b6d4e5c               207 multiverse/i18n/Index
+ 33005f85f428d41009d8dc5da7feac22              1119 multiverse/i18n/Index.asc
  2bfd7325d27d639569aa053086181954               124 multiverse/i18n/Translation-en
+ 6b8bd0ef5858c1cb61868ca4c3300b4d              1038 multiverse/i18n/Translation-en.asc
  52acb119651cabbff8d1108a671fdb89               125 multiverse/i18n/Translation-en.gz
+ bd38a377a24d39fadb120523e5167300              1050 multiverse/i18n/Translation-en.gz.asc
  ea9bde1fab390ef4e8ec9917fca70b30               172 multiverse/i18n/Translation-en.xz
+ a7b0745535c996c0c407830c8f0ae257              1111 multiverse/i18n/Translation-en.xz.asc
+ fb9187753a87167d12f67e6d298ce1e8              9602 multiverse/i18n/index.html
+ 2f969f0e0c2ffc621d49a633850ec060              5015 multiverse/i18n/index.html.asc
 
 SHA1:
  d58cac3c37bb325fa85d4216f499e8704c4f051e               207 multiverse/i18n/Index
+ 6d48c87dfd144f33032281e0ed53b1c1887f3157              1119 multiverse/i18n/Index.asc
  a0f588f6cc8293344aea5f8fa9c3b043c1f6dd63               124 multiverse/i18n/Translation-en
+ 7223a57f9335ff07e21ff8756fd5bd3d24cfccbe              1038 multiverse/i18n/Translation-en.asc
  db544058f076041816740be64e5a57da4bb37d56               125 multiverse/i18n/Translation-en.gz
+ 802a17e927aeedb444c38c83e78173629df20e77              1050 multiverse/i18n/Translation-en.gz.asc
  6c39ed5a021403877804b16b88c71ce21b1bcb6b               172 multiverse/i18n/Translation-en.xz
+ 3c9115f4945dec0dfe250ea79a801ea9ba298ec6              1111 multiverse/i18n/Translation-en.xz.asc
+ ff002935de1ad50d99b5c3bf35d1033d2ae13db4              9602 multiverse/i18n/index.html
+ 2de285f103adc4b180602c0ad9f6f0bd244d739d              5015 multiverse/i18n/index.html.asc
 
 SHA256:
  ab5f30586afb89b8d22c76c0a90cbb59c1dc17a57e58e7fed4d28f66ea441c75               207 multiverse/i18n/Index
+ e250a4ee32a65c174a04d1e5d68fda8a381b433931cfad9cab9d0bf160251905              1119 multiverse/i18n/Index.asc
  2482a3a2bcaf41fb7800cacfdc4465c744385561807bbf6eba33053d75bcb8c1               124 multiverse/i18n/Translation-en
+ 1ed25832a6f89c95b6859ca773cbd468721d502a2cea3e9ff5eedcea71710adb              1038 multiverse/i18n/Translation-en.asc
  13322e86dbc598793f8f0bf750bffc2b9653b8004a873cedc47f8674d1502857               125 multiverse/i18n/Translation-en.gz
+ 85767746e15595d2f54b4a70e76f84bbbbb9820976e954f7e25f4589071e26fb              1050 multiverse/i18n/Translation-en.gz.asc
  c4ef9652681aedba6eb15fba9021684e97dc4d943fac2c15990f03812fa22174               172 multiverse/i18n/Translation-en.xz
+ 4e090af7f61566c27e20d725ca874f0ba1902669b4749b5fcf018dd06c2aab58              1111 multiverse/i18n/Translation-en.xz.asc
+ 42312a865fb52db6f4bc8957ac1a4aed41dd64a234a7c0387fb5f653a26c5561              9602 multiverse/i18n/index.html
+ 9bb6651676d5fe13a898b3ef5aa49a0a5f60aa66083c8d021029551ef4cbbb7b              5015 multiverse/i18n/index.html.asc
 
