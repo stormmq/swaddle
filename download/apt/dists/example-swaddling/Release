@@ -1,0 +1,29 @@
+Origin: stormmq
+Label: stormmq
+Suite: example-swaddling
+Version: 2014.1113.1629
+Codename: example-swaddling
+Date: Thu, 13 Nov 2014 16:29:14 UTC
+Architectures: 
+Components: multiverse
+Description: stormmq example-swaddling 2014.1113.1629
+NotAutomatic: no
+ButAutomaticUpgrades: no
+MD5Sum:
+ 7855efaae528ebe33433c7fc1b6d4e5c               207 multiverse/i18n/Index
+ 2bfd7325d27d639569aa053086181954               124 multiverse/i18n/Translation-en
+ 52acb119651cabbff8d1108a671fdb89               125 multiverse/i18n/Translation-en.gz
+ ea9bde1fab390ef4e8ec9917fca70b30               172 multiverse/i18n/Translation-en.xz
+
+SHA1:
+ d58cac3c37bb325fa85d4216f499e8704c4f051e               207 multiverse/i18n/Index
+ a0f588f6cc8293344aea5f8fa9c3b043c1f6dd63               124 multiverse/i18n/Translation-en
+ db544058f076041816740be64e5a57da4bb37d56               125 multiverse/i18n/Translation-en.gz
+ 6c39ed5a021403877804b16b88c71ce21b1bcb6b               172 multiverse/i18n/Translation-en.xz
+
+SHA256:
+ ab5f30586afb89b8d22c76c0a90cbb59c1dc17a57e58e7fed4d28f66ea441c75               207 multiverse/i18n/Index
+ 2482a3a2bcaf41fb7800cacfdc4465c744385561807bbf6eba33053d75bcb8c1               124 multiverse/i18n/Translation-en
+ 13322e86dbc598793f8f0bf750bffc2b9653b8004a873cedc47f8674d1502857               125 multiverse/i18n/Translation-en.gz
+ c4ef9652681aedba6eb15fba9021684e97dc4d943fac2c15990f03812fa22174               172 multiverse/i18n/Translation-en.xz
+

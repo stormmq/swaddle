@@ -1,0 +1,25 @@
+Package: example
+Essential: no
+Priority: extra
+Section: misc
+Installed-Size: 2
+Maintainer: Raphael Cohn <raphael.cohn@stormmq.com>
+Architecture: all
+Source: example
+Version: 2014.1113.1629-1
+Filename: pool/multiverse/e/example/example_2014.1113.1629-1_all.deb
+Size: 2008
+MD5sum: 55a0669c8622d0cc25371326464671c8
+SHA1: 0c02b87ab29d3d9b4edbc827fed85588974a3310
+SHA256: c160e214373b722918db152415791c7cea4b74076b31641e5f0e9a9ade36b8fa
+Description: A multi-line
+ .
+ .
+ with blank lines
+ .
+Homepage: git@github.com:raphaelcohn/swaddle.git
+Bugs: git@github.com:raphaelcohn/swaddle.git
+Build-Essential: no
+Origin: stormmq
+Supported: 9m
+

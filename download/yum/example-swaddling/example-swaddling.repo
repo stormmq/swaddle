@@ -1,0 +1,8 @@
+[example-swaddling]
+name=example-swaddling
+baseurl=https://raphaelcohn.github.io/swaddle/download/yum/example-swaddling
+mirrorlist=https://raphaelcohn.github.io/swaddle/download/yum/example-swaddling/mirrorlist
+gpgkey=https://raphaelcohn.github.io/swaddle/download/example-swaddling/rpm/RPM-GPG-KEY-example-swaddling
+gpgcheck=1
+enabled=1
+protect=0
